@@ -26,7 +26,7 @@ public class ImageFinder {
                  return new Image("/images/factions/Mahact.png", selectedEnum.name());
             }
             case VuilRaith -> {
-                return new Image("/images/factions/VuilRaith.png", selectedEnum.name());
+                return new Image("/images/factions/Vuilraith.png", selectedEnum.name());
             }
             default -> {
                 return new Image();
